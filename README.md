@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 [![Seba's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurbina)](https://github.com/saurbina/github-readme-stats)
+
+![Seba's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurbina&show_icons=true&theme=transparent)
