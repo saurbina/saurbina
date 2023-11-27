@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on ...</b>
+<p> 🔭 I’m currently working on ...</p>
 🌱 I’m currently learning ...</b>
 📫 How to reach me: ...
 
