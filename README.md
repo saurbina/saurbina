@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on ...</a>
-🌱 I’m currently learning ...</a>
+🔭 I’m currently working on ...</b>
+🌱 I’m currently learning ...</b>
 📫 How to reach me: ...
 
 
