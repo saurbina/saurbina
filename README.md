@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/saurbina/saurbina">
