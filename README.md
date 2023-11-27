@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<saurbina>&theme=<THEME_NAME>" />
+[![Seba's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurbina)](https://github.com/saurbina/github-readme-stats)
