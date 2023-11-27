@@ -48,7 +48,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: <img src="https://github.com/saurbina/saurbina/blob/main/ICON/LI-In-Bug.png" width="100" height="100">
+[2.2]: <img src="https://github.com/saurbina/saurbina/blob/main/ICON/LI-In-Bug.png" width="3" height="16">
 
 <!-- Links to your social media accounts -->
 
