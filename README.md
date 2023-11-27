@@ -1,4 +1,4 @@
-[![Header](https://github.com/saurbina/saurbina/blob/main/ICON/banner.png)]
+![Header](https://github.com/saurbina/saurbina/blob/main/ICON/banner.png)
 
 ### Hi there 👋
 
