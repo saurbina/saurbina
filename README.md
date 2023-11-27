@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurbine&repo=QMSSGR5073_001_2023_3---MACHINE-LEARNING-SOC-SCI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurbine&repo=QMSSGR5073_ML&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
