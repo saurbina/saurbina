@@ -7,9 +7,9 @@
 Here are some ideas to get you started:
 -->
 
-<p> 🔭 I’m currently working on ...</p>
-<p> 🌱 I’m currently learning ...</p>
-📫 How to reach me: ...
+<p> 🔭 As an data scientist currently pursuing a Master's in Quantitative Methods in the Social Sciences (QMSS) at Columbia University, I am deeply passionate about delving into the realm of public opinion analysis. My fascination lies in leveraging statistical methodologies and quantitative techniques to unravel intricate patterns within public sentiment..</p>
+
+📫 How to reach me: sau2113@columbia.edu
 
 
 ## 🔧 Technologies & Tools
