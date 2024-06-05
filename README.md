@@ -1,4 +1,4 @@
-![Header](https://github.com/saurbina/saurbina/blob/main/ICON/Banner.png)
+![Header](https://github.com/saurbina/saurbina/blob/main/ICON/torres_paine.png)
 
 # Hi there 👋 
 <!--
