@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-<p> 🔭 As an data scientist currently pursuing a Master's in Quantitative Methods in the Social Sciences (QMSS) at Columbia University, I am deeply passionate about delving into the realm of public opinion analysis. My fascination lies in leveraging statistical methodologies and quantitative techniques to unravel intricate patterns within public sentiment.</p>
+<p> 🔭 As a data scientist with a recently completed Master's in Quantitative Methods in the Social Sciences (QMSS) from Columbia University, I am deeply passionate about delving into the realm of public opinion analysis. My fascination lies in leveraging statistical methodologies and quantitative techniques to unravel intricate patterns within public sentiment. Specializing in data analysis and data science, I've honed my skills in R and Python to tackle complex social data challenges, transforming raw information into actionable insights.</p>
 
 <p> 📝 Interested in ML and statistics </p>
   
