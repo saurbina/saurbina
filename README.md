@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 </a>
 
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurbina&repo=data_science_pol_anlt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/saurbina/Data_Analysis/tree/main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurbina&repo=Data_Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 
