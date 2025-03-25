@@ -9,17 +9,25 @@ Here are some ideas to get you started:
 
 <p> 🔭 I'm a data scientist with a strong foundation in quantitative analysis and a passion for transforming complex datasets into actionable insights. I recently completed my Master's in Quantitative Methods in the Social Sciences (QMSS) with a Data Science focus at Columbia University. My expertise lies in statistical modeling, machine learning, and data visualization, with hands-on experience in Python, R, SQL, and Apache Spark.
 
-I specialize in:\n
-✅ Data Analysis & Visualization – Extracting meaningful insights using advanced statistical techniques and visualization tools like ggplot2, Seaborn, and Tableau.
-✅ Machine Learning & Predictive Modeling – Applying supervised and unsupervised learning to drive data-driven decision-making.
-✅ Public Opinion & Survey Analytics – Designing and analyzing large-scale surveys, ensuring data integrity, and implementing A/B testing strategies.
-✅ Big Data & Cloud Computing – Leveraging PySpark and AWS to process and analyze large datasets efficiently.
+I specialize in:
+
+    ✅ Data Analysis & Visualization – Extracting meaningful insights using advanced statistical techniques and 
+    visualization tools like ggplot2, Seaborn, and Tableau.
+
+    ✅ Machine Learning & Predictive Modeling – Applying supervised and unsupervised learning to 
+    drive data-driven decision-making.
+
+    ✅ Public Opinion & Survey Analytics – Designing and analyzing large-scale surveys, ensuring data integrity, 
+    and implementing A/B testing strategies.
+
+    ✅ Big Data & Cloud Computing – Leveraging PySpark and AWS to process and analyze large datasets efficiently.
 
 Explore my repositories to see projects on churn analysis, sentiment analysis, causal inference, and predictive modeling.</p>
 
 <p> 📝 Interested in ML and statistics </p>
   
-📫 How to reach me: sau2113@columbia.edu
+📫 How to reach me: sau2113@columbia.edu</p>
+📌 Let’s connect! [LinkedIn](https://www.linkedin.com/in/saurbina/)
 
 
 ## 🔧 Technologies & Tools
