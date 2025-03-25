@@ -1,13 +1,21 @@
 ![Header](https://github.com/saurbina/saurbina/blob/main/ICON/torres_paine.png)
 
-# Hi there 👋 
+# Welcome to My GitHub! 👋 
 <!--
 **saurbina/saurbina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
-<p> 🔭 As a data scientist with a recently completed Master's in Quantitative Methods in the Social Sciences (QMSS) from Columbia University, I am deeply passionate about delving into the realm of public opinion analysis. My fascination lies in leveraging statistical methodologies and quantitative techniques to unravel intricate patterns within public sentiment. Specializing in data analysis and data science, I've honed my skills in R and Python to tackle complex social data challenges, transforming raw information into actionable insights.</p>
+<p> 🔭 I'm a data scientist with a strong foundation in quantitative analysis and a passion for transforming complex datasets into actionable insights. I recently completed my Master's in Quantitative Methods in the Social Sciences (QMSS) with a Data Science focus at Columbia University. My expertise lies in statistical modeling, machine learning, and data visualization, with hands-on experience in Python, R, SQL, and Apache Spark.
+
+I specialize in:
+✅ Data Analysis & Visualization – Extracting meaningful insights using advanced statistical techniques and visualization tools like ggplot2, Seaborn, and Tableau.
+✅ Machine Learning & Predictive Modeling – Applying supervised and unsupervised learning to drive data-driven decision-making.
+✅ Public Opinion & Survey Analytics – Designing and analyzing large-scale surveys, ensuring data integrity, and implementing A/B testing strategies.
+✅ Big Data & Cloud Computing – Leveraging PySpark and AWS to process and analyze large datasets efficiently.
+
+Explore my repositories to see projects on churn analysis, sentiment analysis, causal inference, and predictive modeling.</p>
 
 <p> 📝 Interested in ML and statistics </p>
   
